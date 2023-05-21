@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JsonDZ</string>
+    <string name="hello">Hello!</string>
+    <string name="json_to_data_class">Json to data class</string>
+    <string name="data_class_to_json">Data class to json</string>
+    <string name="title_json">JSON:</string>
+    <string name="title_data_class">DATA CLASS:</string>
+</resources>
